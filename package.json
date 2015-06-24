@@ -1,0 +1,15 @@
+{
+  "name": "@louisshalam/npm-tutorial",
+  "version": "1.0.0",
+  "description": "Npm tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm-tutorial"
+  },
+  "author": "Louis Shalam",
+  "license": "ISC"
+}
